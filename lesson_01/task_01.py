@@ -18,6 +18,7 @@ def multiplication_table(a, b):
 
 # Вариант 2
 
+# def multiplication_table(a, b):
 # c = a + 1
 # while (c := c - 1) > 0:
 #     x = b + 1
