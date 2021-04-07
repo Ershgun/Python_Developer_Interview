@@ -26,6 +26,13 @@ def multiplication_table(a, b):
 #         result = c * x
 #         print(f'{c} * {x} = {result}')
 
+# Вариант 3
+
+# def multiplication_table(x, y):
+#     for a in range(1, x + 1):
+#         for b in range(1, y + 1):
+#             print(f'{a} * {b} = {a * b}')
+
 
 print(f'multiplication_table({a}, {b})')
 multiplication_table(a, b)
