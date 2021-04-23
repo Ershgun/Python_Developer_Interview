@@ -1,3 +1,7 @@
 # Project exclude paths
 /venv/
 main.py
+
+lesson_04/venv
+
+
